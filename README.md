@@ -2,6 +2,11 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
+## Project Overview
+
+In this project, I applied supervised learning techniques and an analytical mind on data collected for the U.S. census to help CharityML (a fictitious charity organization) identify people most likely to donate to their cause. I first explored the data to learn how the census data is recorded. Next, I applied a series of transformations and preprocessing techniques to manipulate the data into a workable format. I then evaluated several supervised learners on the data, and consider which is best suited for the solution. Afterward, I optimized the model you've selected and presented it as your solution to CharityML. Finally, I explored the chosen model and its predictions under the hood, to see just how well it's performing when considering the data it's given.
+Predicted selling price to my statistics.
+
 ### Install
 
 This project requires **Python 3.x** and the following Python libraries installed:
@@ -14,6 +19,13 @@ This project requires **Python 3.x** and the following Python libraries installe
 You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 It is recomnded to install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
+
+
+This project contains three files:
+
+- `finding_donors.ipynb`: This is the main file where I will performed my work on the project.
+- `census.csv`: The project dataset.
+- `visuals.py`: A Python file containing visualization code that is run behind-the-scenes.
 
 ### Run
 
